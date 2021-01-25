@@ -212,7 +212,7 @@ input[type="radio"].visually-hidden {
 
 .works {
   background-color: var(--primary-white-color);
-  margin-bottom: 94px;
+  padding-bottom: 94px;
 }
 
 .works-title {
